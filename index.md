@@ -2,4 +2,4 @@
 
 wiki for everything!!
 
-## [[Algorithm]]
+## [Algorithm](Algorithm)
